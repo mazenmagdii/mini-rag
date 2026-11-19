@@ -1,0 +1,19 @@
+Mini-RAG Upload Test
+
+This plain-text document is a sample upload for the mini-RAG API.
+
+Project information
+The project name is mini-RAG.
+The project demonstrates retrieval-augmented generation for question answering.
+The upload endpoint accepts plain-text and PDF documents.
+The configured example upload size limit is 10 MiB.
+
+Sample questions and answers
+Question: What is the project called?
+Answer: mini-RAG.
+
+Question: What is the purpose of the project?
+Answer: To demonstrate retrieval-augmented generation for question answering.
+
+Question: Which document types can be uploaded?
+Answer: Plain-text and PDF documents.
